@@ -21,7 +21,7 @@ The following synthesizes common themes from the user interviews, categorized to
 *   **Idea Execution Roadblocks:** Difficulty translating creative ideas into tangible, high-quality artifacts ([Mani](01-Mani.md#ideation-process-and-challenges), Mani's "19 of 20 ideas not executable").
 *   **Tooling Limitations & Costs:**
     *   Current AI (free ChatGPT, some specialized AI) can be "dumb," context-limited, or produce subpar results for nuanced creative tasks ([Mani](01-Mani.md#chatgpt-usage-habits-session-length-and-prompting), [Mani](01-Mani.md#use-of-ai-in-workflow-chatgpt), [Hastia](03-Hastia.md#chatgpt-usage-habits-session-flow-and-prompt-length)).
-    *   **Difficulty accurately integrating specific products/elements into videos using general AI models (e.g., Sora) is a major challenge for marketers.** ([Sid](05-Sid.md#vinci-studios-value-proposition-vs-general-ai-models-eg-sora))
+    *   Difficulty accurately integrating specific products/elements into videos using general AI models (e.g., Sora) is a major challenge for marketers. ([Sid](05-Sid.md#vinci-studios-value-proposition-vs-general-ai-models-eg-sora))
     *   Specialized/Pro tools can be expensive or complex for individual creators.
 *   **Poor Returns on Effort:** Frustration from investing heavily in content that underperforms in reach or engagement ([Mani](01-Mani.md#measuring-success-and-handling-underperformance)).
 *   **Documentation Overhead:** For technical creators, producing clear documentation is a time-consuming challenge ([Julien](02-Julien.md#process-of-expressing-and-documenting-work)).
