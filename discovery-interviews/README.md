@@ -52,7 +52,7 @@ Our understanding of the core problem, customer, and business model for vhybZ ev
 *   **Canvas Focus:** At this very early stage, we had a single canvas with a broad focus on "Productivity tool use" for "White Collar Business." The initial Angel User hypothesis was "Gen Z Freelancer."
 *   **Business Model Idea:** A platform offering AI tailor-made tools under a single subscription to address problems like software choice fatigue and high costs.
 *   **Image (v1):**
-    ```markdown
+
     ----------------------------------------------------------------------
     | FULCRUM CANVAS FOR STARTUPS                                        |
     | Exit: IPO/ICO/Acquisition/...                                      |
@@ -72,7 +72,7 @@ Our understanding of the core problem, customer, and business model for vhybZ ev
     |                                    |  - CRM, retention             |
     |                                    |  - Customers want AI          |
     ----------------------------------------------------------------------
-    ```
+
 *   **Assessment & Learning:** Initial unrecorded interviews (Experiment Board columns 1 & 2: "Web Dev" and "One man shop") indicated this approach was too broad. These segments often had existing solutions or different primary pains, leading to a decision to PIVOT towards more specific creator and power-user profiles.
 
 ### Iteration 2: Pivot to Creator Focus & Emergence of Two-Sided Platform (Post-Experiment 2, Pre-Mani Interview)
@@ -85,7 +85,7 @@ Learnings from the initial experiments prompted a significant pivot. We began fo
 *   **Business Model Idea (User/Creator):** A platform for AI-native content generation ("Every pixel will be generated..."), potentially with "One subscription for all vendors" (implying users access aggregated underlying tools).
 *   **Problems Hypothesized (User/Creator):** "Idea to App Store" (very ambitious at this stage) and "Network Effect" (as a user problem, which was somewhat unclear in its initial framing).
 *   **Image (v2.1 - User/Creator):**
-    ```markdown
+
     ----------------------------------------------------------------------
     | FULCRUM CANVAS FOR STARTUPS (User/Creator)                         |
     | Exit: IPO/ICO/Acquisition/...                                      |
@@ -106,7 +106,7 @@ Learnings from the initial experiments prompted a significant pivot. We began fo
     |                                    |  - Story / Remix native       |
     |                                    |  - Follower # burn out        |
     ----------------------------------------------------------------------
-    ```
+
 *   **Assessment (User/Creator v2.1):** This iteration marked a significant step towards a more technical and creator-focused Angel User. The "Problem" definition was still broad, but the sharper Angel User profile set the stage for more targeted interviews like those with Mani and Julien.
 
 **Canvas 2.2: vhybZ (Vendor)**
@@ -115,7 +115,7 @@ Learnings from the initial experiments prompted a significant pivot. We began fo
 *   **Business Model Idea (Vendor):** A platform offering distribution for specialized GenAI capabilities, likely via a Rev Share model, emphasizing that "distribution is king."
 *   **Problems Hypothesized (Vendor):** "Need B2C to shine," "New rev streams."
 *   **Image (v2.2 - Vendor):**
-    ```markdown
+
     ----------------------------------------------------------------------
     | FULCRUM CANVAS FOR STARTUPS (Vendor)                               |
     | Exit: IPO/ICO/Acquisition/...                                      |
@@ -133,7 +133,7 @@ Learnings from the initial experiments prompted a significant pivot. We began fo
     | GenAI Marketplaces                 | Early stage GenAI             |
     |                                    |  (Market data points...)      |
     ----------------------------------------------------------------------
-    ```
+
 *   **Assessment (Vendor v2.2):** This marked the crucial conceptual split. Identifying "Distribution is king" for vendors was a key insight. The Angel Vendor profile began to form, setting the stage for the interview with Sid.
 
 ### Iteration 3: Final Data-Driven Canvases (Post-All 5 Interviews)
@@ -146,7 +146,7 @@ After conducting all five interviews (Mani, Julien, Hastia, Termeh, Sid), both t
 *   **Business Model:** Freemium/Tiered Subscription for a platform that aggregates GenAI capabilities and enables AI-native interactive artifact generation.
 *   **Problems Validated:** "Effortful Idea-to-Impactful-Artifact," "Achieving Desired Reach / Virality," and "Accessing/Using Right Creative Tools Easily."
 *   **Image & Details (v3.1 - User/Creator - Final):**
-    ```markdown
+
     --------------------------------------------------------------------------------------------------------------------------
     | FULCRUM CANVAS FOR STARTUPS (User/Creator)                                                                             |
     | Exit: IPO/ICO/Acquisition/...                                                                                          |
@@ -172,7 +172,7 @@ After conducting all five interviews (Mani, Julien, Hastia, Termeh, Sid), both t
     |                                                     |  - Tech-Savvy & Output-Driven                                    |
     |                                                     |  - Pain with tedium in DCC                                       |
     --------------------------------------------------------------------------------------------------------------------------
-    ```
+
 
 **Canvas 3.2: vhybZ (Vendor) - Final Version**
 *   *(This is the canvas you provided with "Reach B2C Users & Sell Niche Tech" as the task for "GenAI Tool/Service Provider (B2B)").*
@@ -180,7 +180,7 @@ After conducting all five interviews (Mani, Julien, Hastia, Termeh, Sid), both t
 *   **Business Model:** Rev Share platform focused on distributing specialized GenAI capabilities and reducing frontend development overhead for vendors.
 *   **Problems Validated:** "B2C User Acquisition & Distribution," "Showcasing/Monetizing Specialized AI Capabilities," and "Frontend Development Overhead for B2C Interaction."
 *   **Image & Details (v3.2 - Vendor - Final):**
-    ```markdown
+
     --------------------------------------------------------------------------------------------------------------------------
     | FULCRUM CANVAS FOR STARTUPS (Vendor)                                                                                   |
     | Exit: IPO/ICO/Acquisition/...                                                                                          |
@@ -204,7 +204,7 @@ After conducting all five interviews (Mani, Julien, Hastia, Termeh, Sid), both t
     |                                                     |  - Limited B2C Market Reach/Brand                                |
     |                                                     |  - Value Easy, Deep Integration on Proven Platforms              |
     --------------------------------------------------------------------------------------------------------------------------
-    ```
+
 *   **Assessment of Iteration 3:** These final canvases are robust and directly reflect the rich data gathered from all five user interviews. They clearly delineate the value propositions for both sides of the vhybZ platform and provide a strong strategic foundation for moving forward.
 
 ## Experiment Board Journey & Key Learnings
