@@ -51,27 +51,20 @@ Our understanding of the core problem, customer, and business model for vhybZ ev
 
 *   **Canvas Focus:** At this very early stage, we had a single canvas with a broad focus on "Productivity tool use" for "White Collar Business." The initial Angel User hypothesis was "Gen Z Freelancer."
 *   **Business Model Idea:** A platform offering AI tailor-made tools under a single subscription to address problems like software choice fatigue and high costs.
-*   **Image (v1):**
+*   **Problems Hypothesized:** Choice fatigue, expensive tools.
+*   **Canvas v1 Details:**
 
-    ----------------------------------------------------------------------
-    | FULCRUM CANVAS FOR STARTUPS        |                               |
-    | Exit: IPO/ICO/Acquisition/...      |                               |
-    |--------------------------------------------------------------------|
-    | BUSINESS MODEL                     | TASK (Action)                 |
-    | (One subscription to rule them all)| Productivity tool use         |
-    | (Platform)                         |                               |
-    | (All tools...tailor made by AI)    |                               |
-    |------------------------------------|-------------------------------|
-    | PROBLEM                            | CUSTOMER SEGMENT              |
-    | - Choice fatigue                   | White Collar Business         |
-    | - Right tools often expensive      |                               |
-    |------------------------------------|-------------------------------|
-    | EXISTING ALTERNATIVES              | ANGEL USERS                   |
-    | Current work software              | Gen Z Freelancer              |
-    |                                    |  - Iterative demos            |
-    |                                    |  - CRM, retention             |
-    |                                    |  - Customers want AI          |
-    ----------------------------------------------------------------------
+    | **FULCRUM CANVAS FOR STARTUPS**        |                                                                                                |
+    | :------------------------------------- | :--------------------------------------------------------------------------------------------- |
+    | **BUSINESS MODEL**                     | **TASK (Action)**                                                                              |
+    | - One subscription to rule them all    | Productivity tool use                                                                          |
+    | - Platform                             |                                                                                                |
+    | - All tools...tailor made by AI        |                                                                                                |
+    | **PROBLEM**                            | **CUSTOMER SEGMENT**                                                                           |
+    | - Choice fatigue                       | White Collar Business                                                                          |
+    | - Right tools often expensive          |                                                                                                |
+    | **EXISTING ALTERNATIVES**              | **ANGEL USERS**                                                                                |
+    | Current work software                  | Gen Z Freelancer <br>  - Iterative demos <br>  - CRM, retention <br>  - Customers want AI          |
 
 *   **Assessment & Learning:** Initial unrecorded interviews (Experiment Board columns 1 & 2: "Web Dev" and "One man shop") indicated this approach was too broad. These segments often had existing solutions or different primary pains, leading to a decision to PIVOT towards more specific creator and power-user profiles.
 
@@ -80,59 +73,42 @@ Our understanding of the core problem, customer, and business model for vhybZ ev
 Learnings from the initial experiments prompted a significant pivot. We began focusing more intently on creators and the technical power users within that group. This is where the idea of vhybZ as a two-sided platform started to solidify, with distinct considerations for User/Creators and potential GenAI Tool Vendors. This iteration was developed *before* the interview with Mani (Experiment Board column 3).
 
 **Canvas 2.1: vhybZ (User/Creator)**
-*   *(This is the canvas you provided with "Build custom tool / content" as the task and "Gen Z Vibe Coder" as the Angel User).*
 *   **Focus:** Shifted to "Build custom tool / content" for a "Power User of multiple software." The Angel User was refined to "Gen Z Vibe Coder" (often a YouTuber, familiar with remix culture, potentially facing content burnout).
 *   **Business Model Idea (User/Creator):** A platform for AI-native content generation ("Every pixel will be generated..."), potentially with "One subscription for all vendors" (implying users access aggregated underlying tools).
 *   **Problems Hypothesized (User/Creator):** "Idea to App Store" (very ambitious at this stage) and "Network Effect" (as a user problem, which was somewhat unclear in its initial framing).
-*   **Image (v2.1 - User/Creator):**
+*   **Canvas v2.1 Details (User/Creator):**
 
-    ----------------------------------------------------------------------
-    | FULCRUM CANVAS FOR STARTUPS (User/Creator)  |                      |
-    | Exit: IPO/ICO/Acquisition/...               |                      |
-    |--------------------------------------------------------------------|
-    | BUSINESS MODEL                     | TASK (Action)                 |
-    | (One subscription for all vendors) | Build custom                  |
-    | (Platform)                         | tool / content                |
-    | (Every pixel will be generated,    |                               |
-    |  not rendered. -- Jenson Huang)    |                               |
-    |------------------------------------|-------------------------------|
-    | PROBLEM                            | CUSTOMER SEGMENT              |
-    | - Idea to App Store                | Power User of                 |
-    | - Network Effect                   | multiple software             |
-    |------------------------------------|-------------------------------|
-    | EXISTING ALTERNATIVES              | ANGEL USERS                   |
-    | Lovable.dev                        | Gen Z Vibe Coder              |
-    | Replit, Cursor                     |  - 65% identify YouTuber      |
-    |                                    |  - Story / Remix native       |
-    |                                    |  - Follower # burn out        |
-    ----------------------------------------------------------------------
+    | **FULCRUM CANVAS FOR STARTUPS (User/Creator)** |                                                                                                |
+    | :--------------------------------------------- | :--------------------------------------------------------------------------------------------- |
+    | **BUSINESS MODEL**                             | **TASK (Action)**                                                                              |
+    | - One subscription for all vendors             | Build custom                                                                                   |
+    | - Platform                                     | tool / content                                                                                 |
+    | - Every pixel will be generated, not rendered. <br>   -- Jenson Huang |                                                                                                |
+    | **PROBLEM**                                    | **CUSTOMER SEGMENT**                                                                           |
+    | - Idea to App Store                            | Power User of                                                                                  |
+    | - Network Effect                               | multiple software                                                                              |
+    | **EXISTING ALTERNATIVES**                      | **ANGEL USERS**                                                                                |
+    | Lovable.dev, Replit, Cursor                    | Gen Z Vibe Coder <br>  - 65% identify YouTuber <br>  - Story / Remix native <br>  - Follower # burn out |
 
 *   **Assessment (User/Creator v2.1):** This iteration marked a significant step towards a more technical and creator-focused Angel User. The "Problem" definition was still broad, but the sharper Angel User profile set the stage for more targeted interviews like those with Mani and Julien.
 
 **Canvas 2.2: vhybZ (Vendor)**
-*   *(This is the canvas you provided with "Acquire Users" as the task for a "GenAI B2B company").*
 *   **Focus:** Concurrently, the Vendor side hypothesis emerged: helping "GenAI B2B company" to "Acquire Users." The Angel Vendor was "Early stage GenAI."
 *   **Business Model Idea (Vendor):** A platform offering distribution for specialized GenAI capabilities, likely via a Rev Share model, emphasizing that "distribution is king."
 *   **Problems Hypothesized (Vendor):** "Need B2C to shine," "New rev streams."
-*   **Image (v2.2 - Vendor):**
+*   **Canvas v2.2 Details (Vendor):**
 
-    ----------------------------------------------------------------------
-    | FULCRUM CANVAS FOR STARTUPS (Vendor)  |                            |
-    | Exit: IPO/ICO/Acquisition/...         |                            |
-    |--------------------------------------------------------------------|
-    | BUSINESS MODEL                     | TASK (Action)                 |
-    | (Rev share)                        | Acquire Users                 |
-    | (Platform: Distribution...)        |                               |
-    | (Distribution is king)             |                               |
-    |------------------------------------|-------------------------------|
-    | PROBLEM                            | CUSTOMER SEGMENT              |
-    | - Need B2C to shine                | GenAI B2B company             |
-    | - New rev streams                  |                               |
-    |------------------------------------|-------------------------------|
-    | EXISTING ALTERNATIVES              | ANGEL USERS                   |
-    | GenAI Marketplaces                 | Early stage GenAI             |
-    |                                    |  (Market data points...)      |
-    ----------------------------------------------------------------------
+    | **FULCRUM CANVAS FOR STARTUPS (Vendor)** |                                                              |
+    | :--------------------------------------- | :----------------------------------------------------------- |
+    | **BUSINESS MODEL**                       | **TASK (Action)**                                            |
+    | - Rev share                              | Acquire Users                                                |
+    | - Platform: Distribution...              |                                                              |
+    | - Distribution is king                   |                                                              |
+    | **PROBLEM**                              | **CUSTOMER SEGMENT**                                         |
+    | - Need B2C to shine                      | GenAI B2B company                                            |
+    | - New rev streams                        |                                                              |
+    | **EXISTING ALTERNATIVES**                | **ANGEL USERS**                                              |
+    | GenAI Marketplaces                       | Early stage GenAI <br>  (Market data points...)                |
 
 *   **Assessment (Vendor v2.2):** This marked the crucial conceptual split. Identifying "Distribution is king" for vendors was a key insight. The Angel Vendor profile began to form, setting the stage for the interview with Sid.
 
@@ -141,69 +117,34 @@ Learnings from the initial experiments prompted a significant pivot. We began fo
 After conducting all five interviews (Mani, Julien, Hastia, Termeh, Sid), both the User/Creator and Vendor canvases were significantly refined with direct data, leading to our current understanding:
 
 **Canvas 3.1: vhybZ (User/Creator) - Final Version**
-*   *(This is the canvas you provided with "Create an engaging Artifact + its showcase 'Video'" as the task for "Indie Digital Creators").*
 *   **Focus:** Empowering "Indie Digital Creators (Global)" to "Create an engaging Artifact + its showcase 'Video'." The Angel User is the "Gen Z Prompt Native."
 *   **Business Model:** Freemium/Tiered Subscription for a platform that aggregates GenAI capabilities and enables AI-native interactive artifact generation.
 *   **Problems Validated:** "Effortful Idea-to-Impactful-Artifact," "Achieving Desired Reach / Virality," and "Accessing/Using Right Creative Tools Easily."
-*   **Image & Details (v3.1 - User/Creator - Final):**
+*   **Canvas v3.1 Details (User/Creator - Final):**
 
-    --------------------------------------------------------------------------------------------------------------------------
-    | FULCRUM CANVAS FOR STARTUPS (User/Creator)          |                                                                  |
-    | Exit: IPO/ICO/Acquisition/...                       |                                                                  |
-    |------------------------------------------------------------------------------------------------------------------------|
-    | BUSINESS MODEL                                      | TASK (Action)                                                    |
-    | - Freemium / Tiered Subscription                    | Create an engaging                                               |
-    | - Platform: Aggregates GenAI Capabilities           | Artifact + its                                                   |
-    | - Every pixel will be generated... (Jenson Huang)   | showcase "Video"                                                 |
-    |   - Pay: Time Saved, Enhanced Quality/Impact,       |                                                                  |
-    |     Unique Interactive Outputs                      |                                                                  |
-    |   - Network: More users ➜ more virality ➜ more users|                                                                 |
-    |   - Trends: Creator economy, AI adoption, Gen Z     |                                                                  |
-    |-----------------------------------------------------|------------------------------------------------------------------|
-    | PROBLEM                                             | CUSTOMER SEGMENT                                                 |
-    | 1. Effortful Idea-to-Impactful-Artifact             | Indie Digital Creators (Global)                                  |
-    | 2. Achieving Desired Reach / Virality               |  ~50M Global (GS '23) ➜ ~15% "Serious" (7.5M)                    |
-    | 3. Accessing/Using Right Creative Tools Easily      |  x $1800/yr avg. ($150/mo) = $13.5B/yr TAM (2023)                 |
-    |                                                     |  (Actively produce... monetize. Spending $50-500+/mo + time)     |
-    |-----------------------------------------------------|------------------------------------------------------------------|
-    | EXISTING ALTERNATIVES                               | ANGEL USERS                                                      |
-    | AI Chat Apps (ChatGPT), Prosumer Tools (Adobe, etc.)| Gen Z Prompt Natives                                             |
-    | Niche Apps (Canva, CapCut, Index, BeReal)           |  - 65% identify as YouTuber                                      |
-    |                                                     |  - Tech-Savvy & Output-Driven                                    |
-    |                                                     |  - Pain with tedium in DCC                                       |
-    --------------------------------------------------------------------------------------------------------------------------
-
+    | **FULCRUM CANVAS FOR STARTUPS (User/Creator)**                                                                                                                               |                                                                                                                                                                |
+    | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | **BUSINESS MODEL**                                                                                                                                                           | **TASK (Action)**                                                                                                                                              |
+    | - Freemium / Tiered Subscription <br> - Platform: Aggregates GenAI Capabilities <br> - Every pixel will be generated... (Jenson Huang) <br>   - *Pay For:* Time Saved, Enhanced Quality/Impact, Unique Interactive Outputs <br>   - *Network Effects:* More users ➜ more virality ➜ more users <br>   - *Trends:* Creator economy, AI adoption, Gen Z | Create an engaging Artifact + its showcase "Video"                                                                                                             |
+    | **PROBLEM**                                                                                                                                                                  | **CUSTOMER SEGMENT**                                                                                                                                           |
+    | 1. Effortful Idea-to-Impactful-Artifact <br> 2. Achieving Desired Reach / Virality <br> 3. Accessing/Using Right Creative Tools Easily                                         | **Indie Digital Creators (Global)** <br>  ~50M Global (GS '23) ➜ ~15% "Serious" (7.5M) <br>  x $1800/yr avg. ($150/mo) = $13.5B/yr TAM (2023) <br>  *(Actively produce... monetize. Spending $50-500+/mo + time)* |
+    | **EXISTING ALTERNATIVES**                                                                                                                                                    | **ANGEL USERS**                                                                                                                                                |
+    | AI Chat Apps (ChatGPT), Prosumer Tools (Adobe, iMovie, DAWs) <br> Niche Apps (Canva, CapCut, Index, BeReal)                                                                   | **Gen Z Prompt Natives** <br>  - 65% identify as YouTuber <br>  - Tech-Savvy & Output-Driven <br>  - Pain with tedium in DCC                                 |
 
 **Canvas 3.2: vhybZ (Vendor) - Final Version**
-*   *(This is the canvas you provided with "Reach B2C Users & Sell Niche Tech" as the task for "GenAI Tool/Service Provider (B2B)").*
 *   **Focus:** Enabling "GenAI Tool/Service Provider (B2B)" to "Reach B2C Users & Sell Niche Tech." The Angel Vendor is "Early stage GenAI."
 *   **Business Model:** Rev Share platform focused on distributing specialized GenAI capabilities and reducing frontend development overhead for vendors.
 *   **Problems Validated:** "B2C User Acquisition & Distribution," "Showcasing/Monetizing Specialized AI Capabilities," and "Frontend Development Overhead for B2C Interaction."
-*   **Image & Details (v3.2 - Vendor - Final):**
+*   **Canvas v3.2 Details (Vendor - Final):**
 
-    --------------------------------------------------------------------------------------------------------------------------
-    | FULCRUM CANVAS FOR STARTUPS (Vendor)                |                                                                  |
-    | Exit: IPO/ICO/Acquisition/...                       |                                                                  |
-    |------------------------------------------------------------------------------------------------------------------------|
-    | BUSINESS MODEL                                      | TASK (Action)                                                    |
-    | - Rev Share                                         | Reach B2C Users &                                                |
-    | - Platform: Distribution of Specialized GenAI       | Sell Niche Tech                                                  |
-    | - Artifact/Content gen cheap, distribution king     |                                                                  |
-    |   - Pay: Access B2C Base, Reduced Dev, New Rev      |                                                                  |
-    |   - Network: More vendors ➜ better UX ➜ more users  |                                                                |
-    |   - Trends: GenAI proliferation, high B2C CAC       |                                                                  |
-    |-----------------------------------------------------|------------------------------------------------------------------|
-    | PROBLEM                                             | CUSTOMER SEGMENT                                                 |
-    | 1. B2C User Acquisition & Distribution              | GenAI Tool/Service Provider (B2B)                                |
-    | 2. Showcasing/Monetizing Specialized AI             |  Potential Vendor Pool:                                          |
-    | 3. Frontend Dev Overhead for B2C Interaction        |  ~5k+ GenAI Startups (Tracxn '24) ➜ ~20% (1k+) B2C-ready        |
-    |-----------------------------------------------------|------------------------------------------------------------------|
-    | EXISTING ALTERNATIVES                               | ANGEL USERS                                                      |
-    | Basic AI Marketplaces / Directories (listing)       | Early stage GenAI                                                |
-    | Direct B2B Sales                                    |  - Possess Specialized/Fine-Tuned AI Tech                        |
-    |                                                     |  - Limited B2C Market Reach/Brand                                |
-    |                                                     |  - Value Easy, Deep Integration on Proven Platforms              |
-    --------------------------------------------------------------------------------------------------------------------------
+    | **FULCRUM CANVAS FOR STARTUPS (Vendor)**                                                                                                                                        |                                                                                                                              |
+    | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------- |
+    | **BUSINESS MODEL**                                                                                                                                                              | **TASK (Action)**                                                                                                            |
+    | - Rev Share <br> - Platform: Distribution of Specialized GenAI <br> - Artifact/Content gen cheap, distribution king <br>   - *Pay For:* Access B2C Base, Reduced Dev, New Rev <br>   - *Network Effects:* More vendors ➜ better UX ➜ more users <br>   - *Trends:* GenAI proliferation, high B2C CAC     | Reach B2C Users & Sell Niche Tech                                                                                            |
+    | **PROBLEM**                                                                                                                                                                     | **CUSTOMER SEGMENT**                                                                                                         |
+    | 1. B2C User Acquisition & Distribution <br> 2. Showcasing/Monetizing Specialized AI Capabilities <br> 3. Frontend Dev Overhead for B2C Interaction                                | **GenAI Tool/Service Provider (B2B)** <br>  *Potential Vendor Pool:* <br>  ~5k+ GenAI Startups (Tracxn '24) ➜ ~20% (1k+) B2C-ready |
+    | **EXISTING ALTERNATIVES**                                                                                                                                                       | **ANGEL USERS**                                                                                                              |
+    | Basic AI Marketplaces / Directories (listing) <br> Direct B2B Sales                                                                                                             | **Early stage GenAI** <br>  - Possess Specialized/Fine-Tuned AI Tech <br>  - Limited B2C Market Reach/Brand <br>  - Value Easy, Deep Integration on Proven Platforms |
 
 *   **Assessment of Iteration 3:** These final canvases are robust and directly reflect the rich data gathered from all five user interviews. They clearly delineate the value propositions for both sides of the vhybZ platform and provide a strong strategic foundation for moving forward.
 
