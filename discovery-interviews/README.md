@@ -54,8 +54,8 @@ Our understanding of the core problem, customer, and business model for vhybZ ev
 *   **Image (v1):**
 
     ----------------------------------------------------------------------
-    | FULCRUM CANVAS FOR STARTUPS                                        |
-    | Exit: IPO/ICO/Acquisition/...                                      |
+    | FULCRUM CANVAS FOR STARTUPS        |                               |
+    | Exit: IPO/ICO/Acquisition/...      |                               |
     |--------------------------------------------------------------------|
     | BUSINESS MODEL                     | TASK (Action)                 |
     | (One subscription to rule them all)| Productivity tool use         |
@@ -87,8 +87,8 @@ Learnings from the initial experiments prompted a significant pivot. We began fo
 *   **Image (v2.1 - User/Creator):**
 
     ----------------------------------------------------------------------
-    | FULCRUM CANVAS FOR STARTUPS (User/Creator)                         |
-    | Exit: IPO/ICO/Acquisition/...                                      |
+    | FULCRUM CANVAS FOR STARTUPS (User/Creator)  |                      |
+    | Exit: IPO/ICO/Acquisition/...               |                      |
     |--------------------------------------------------------------------|
     | BUSINESS MODEL                     | TASK (Action)                 |
     | (One subscription for all vendors) | Build custom                  |
@@ -117,8 +117,8 @@ Learnings from the initial experiments prompted a significant pivot. We began fo
 *   **Image (v2.2 - Vendor):**
 
     ----------------------------------------------------------------------
-    | FULCRUM CANVAS FOR STARTUPS (Vendor)                               |
-    | Exit: IPO/ICO/Acquisition/...                                      |
+    | FULCRUM CANVAS FOR STARTUPS (Vendor)  |                            |
+    | Exit: IPO/ICO/Acquisition/...         |                            |
     |--------------------------------------------------------------------|
     | BUSINESS MODEL                     | TASK (Action)                 |
     | (Rev share)                        | Acquire Users                 |
@@ -148,8 +148,8 @@ After conducting all five interviews (Mani, Julien, Hastia, Termeh, Sid), both t
 *   **Image & Details (v3.1 - User/Creator - Final):**
 
     --------------------------------------------------------------------------------------------------------------------------
-    | FULCRUM CANVAS FOR STARTUPS (User/Creator)                                                                             |
-    | Exit: IPO/ICO/Acquisition/...                                                                                          |
+    | FULCRUM CANVAS FOR STARTUPS (User/Creator)          |                                                                  |
+    | Exit: IPO/ICO/Acquisition/...                       |                                                                  |
     |------------------------------------------------------------------------------------------------------------------------|
     | BUSINESS MODEL                                      | TASK (Action)                                                    |
     | - Freemium / Tiered Subscription                    | Create an engaging                                               |
@@ -157,7 +157,7 @@ After conducting all five interviews (Mani, Julien, Hastia, Termeh, Sid), both t
     | - Every pixel will be generated... (Jenson Huang)   | showcase "Video"                                                 |
     |   - Pay: Time Saved, Enhanced Quality/Impact,       |                                                                  |
     |     Unique Interactive Outputs                      |                                                                  |
-    |   - Network: More users ➜ more virality ➜ more users|                                                                  |
+    |   - Network: More users ➜ more virality ➜ more users|                                                                 |
     |   - Trends: Creator economy, AI adoption, Gen Z     |                                                                  |
     |-----------------------------------------------------|------------------------------------------------------------------|
     | PROBLEM                                             | CUSTOMER SEGMENT                                                 |
@@ -168,7 +168,7 @@ After conducting all five interviews (Mani, Julien, Hastia, Termeh, Sid), both t
     |-----------------------------------------------------|------------------------------------------------------------------|
     | EXISTING ALTERNATIVES                               | ANGEL USERS                                                      |
     | AI Chat Apps (ChatGPT), Prosumer Tools (Adobe, etc.)| Gen Z Prompt Natives                                             |
-    | Niche Apps (Canva, CapCut, Index, BeReal)           |  - 65% identify as YouTuber                                     |
+    | Niche Apps (Canva, CapCut, Index, BeReal)           |  - 65% identify as YouTuber                                      |
     |                                                     |  - Tech-Savvy & Output-Driven                                    |
     |                                                     |  - Pain with tedium in DCC                                       |
     --------------------------------------------------------------------------------------------------------------------------
@@ -182,21 +182,21 @@ After conducting all five interviews (Mani, Julien, Hastia, Termeh, Sid), both t
 *   **Image & Details (v3.2 - Vendor - Final):**
 
     --------------------------------------------------------------------------------------------------------------------------
-    | FULCRUM CANVAS FOR STARTUPS (Vendor)                                                                                   |
-    | Exit: IPO/ICO/Acquisition/...                                                                                          |
+    | FULCRUM CANVAS FOR STARTUPS (Vendor)                |                                                                  |
+    | Exit: IPO/ICO/Acquisition/...                       |                                                                  |
     |------------------------------------------------------------------------------------------------------------------------|
     | BUSINESS MODEL                                      | TASK (Action)                                                    |
     | - Rev Share                                         | Reach B2C Users &                                                |
     | - Platform: Distribution of Specialized GenAI       | Sell Niche Tech                                                  |
     | - Artifact/Content gen cheap, distribution king     |                                                                  |
     |   - Pay: Access B2C Base, Reduced Dev, New Rev      |                                                                  |
-    |   - Network: More vendors ➜ better UX ➜ more users  |                                                                  |
+    |   - Network: More vendors ➜ better UX ➜ more users  |                                                                |
     |   - Trends: GenAI proliferation, high B2C CAC       |                                                                  |
     |-----------------------------------------------------|------------------------------------------------------------------|
     | PROBLEM                                             | CUSTOMER SEGMENT                                                 |
     | 1. B2C User Acquisition & Distribution              | GenAI Tool/Service Provider (B2B)                                |
     | 2. Showcasing/Monetizing Specialized AI             |  Potential Vendor Pool:                                          |
-    | 3. Frontend Dev Overhead for B2C Interaction        |  ~5k+ GenAI Startups (Tracxn '24) ➜ ~20% (1k+) B2C-ready         |
+    | 3. Frontend Dev Overhead for B2C Interaction        |  ~5k+ GenAI Startups (Tracxn '24) ➜ ~20% (1k+) B2C-ready        |
     |-----------------------------------------------------|------------------------------------------------------------------|
     | EXISTING ALTERNATIVES                               | ANGEL USERS                                                      |
     | Basic AI Marketplaces / Directories (listing)       | Early stage GenAI                                                |
@@ -219,7 +219,7 @@ The following summarizes the iterative experiments conducted, as captured on the
 | **Riskiest Assumption** | They'll adopt a new tool| Mobile app is useful      | He'll adopt a *new* creation tool | vhybZ solves showcase/engagement   | vhybZ useful for *her* school tasks | vhybZ improves *her* video visuals | vhybZ offers real B2C network/value |
 | **Method & Success**    | Use & pay for MobileDev | Pay for Lovable MobileApps| Put time/money into new tool      | Values vhybZ for "Vibe Content"    | Sees vhybZ as school/learning aid | Excited to use for visuals/inspiration | Sees vhybZ as viable B2C channel |
 | **Result & Decision**   | "I'll prompt it myself" | "I have own agentic pipe" | Match! Anchor as Angel User       | Strong Match! Angel/Co-founder Int | Match! Angel for Academic Utility  | Strong Match! Angel for Visual Creation | Conditional Interest: Needs Proof |
-| **Learning**            | Devs too opinionated, pivot | Not Angel, have own soln, pivot | Obsess quality/impact             | Sees vhybZ solving showcase/auto    | Values AI for School (Not "Creative") | Hooked by Visual (Not Virality) | B2B Vendors Need: Reach, Integration, ROI |
+| **Learning**            | Devs too opinionated, pivot | Not Angel, have own soln, pivot | Obsess quality/impact   | Sees vhybZ solving showcase/auto    | Values AI for School (Not "Creative") | Hooked by Visual (Not Virality) | B2B Vendors Need: Reach, Integration, ROI |
 
 ### Experiment 1: Web Developers
 *   **Customer:** Web Dev
